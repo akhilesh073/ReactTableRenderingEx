@@ -1,2 +1,0 @@
-# ReactTableRenderingEx
-Created with CodeSandbox
